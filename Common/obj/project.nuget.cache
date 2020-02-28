@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fGlX3NsCN2z5LFZJotyscNia+8bzVaRspf9PpEIVVkeZgPF5PVwWDRG9Dixd+gUE7wRWpepke3CwlXLmjFLfw==",
+  "success": true,
+  "projectFilePath": "D:\\pachong\\doubanPachongSample\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\吕小不\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

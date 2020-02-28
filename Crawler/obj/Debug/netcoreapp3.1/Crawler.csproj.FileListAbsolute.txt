@@ -1,0 +1,14 @@
+D:\pachong\doubanPachongSample\Crawler\bin\Debug\netcoreapp3.1\Crawler.deps.json
+D:\pachong\doubanPachongSample\Crawler\bin\Debug\netcoreapp3.1\Crawler.dll
+D:\pachong\doubanPachongSample\Crawler\bin\Debug\netcoreapp3.1\Crawler.pdb
+D:\pachong\doubanPachongSample\Crawler\obj\Debug\netcoreapp3.1\Crawler.csprojAssemblyReference.cache
+D:\pachong\doubanPachongSample\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfoInputs.cache
+D:\pachong\doubanPachongSample\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfo.cs
+D:\pachong\doubanPachongSample\Crawler\obj\Debug\netcoreapp3.1\Crawler.dll
+D:\pachong\doubanPachongSample\Crawler\obj\Debug\netcoreapp3.1\Crawler.pdb
+D:\pachong\doubanPachongSample\Crawler\bin\Debug\netcoreapp3.1\Common.dll
+D:\pachong\doubanPachongSample\Crawler\bin\Debug\netcoreapp3.1\Common.pdb
+D:\pachong\doubanPachongSample\Crawler\obj\Debug\netcoreapp3.1\Crawler.csproj.CopyComplete
+D:\pachong\doubanPachongSample\Crawler\bin\Debug\netcoreapp3.1\Model.dll
+D:\pachong\doubanPachongSample\Crawler\bin\Debug\netcoreapp3.1\Model.pdb
+D:\pachong\doubanPachongSample\Crawler\obj\Debug\netcoreapp3.1\Crawler.csproj.CoreCompileInputs.cache

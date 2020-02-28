@@ -1,0 +1,9 @@
+D:\pachong\doubanPachongSample\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\pachong\doubanPachongSample\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\pachong\doubanPachongSample\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+D:\pachong\doubanPachongSample\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\pachong\doubanPachongSample\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\pachong\doubanPachongSample\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\pachong\doubanPachongSample\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\pachong\doubanPachongSample\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\pachong\doubanPachongSample\Common\obj\Debug\netcoreapp3.1\Common.pdb
